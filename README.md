@@ -23,7 +23,8 @@ Insights Extraction: Identified popular pizza types, peak order times, and custo
 Popular Pizza Types: Analyzed which pizza types were most frequently ordered and their impact on overall sales.
 Peak Order Times: Determined peak times for orders to understand customer behavior and optimize operations.
 Customer Preferences: Examined order details to reveal customer preferences and trends in purchasing.
-📂 Documentation:
 
 
 Open the SQL scripts and the attached documents to review the queries and insights.
+![image](https://github.com/user-attachments/assets/b3f563ac-824a-4259-8325-1542ffa2dc59)
+
